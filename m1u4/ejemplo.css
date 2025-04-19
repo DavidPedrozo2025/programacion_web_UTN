@@ -1,0 +1,38 @@
+h1 {
+    /*comentario en CSS*/
+    color: rgb(227, 56, 9);
+    /*color de la fuente*/
+    text-transform: uppercase;
+    text-align: center;
+    background-color: rgb(173, 194, 246);
+}
+
+h2 {
+    color: rgb(107, 104, 104);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20x;
+}
+
+.destacado{
+    color: blue;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#caja{
+    width: 200px;
+    height: 300px;
+    background-color: beige;
+    padding: 10px;
+    border: 3px solid black;
+    box-sizing: border-box;
+
+}
+#caja p{
+text-align: center;
+}
