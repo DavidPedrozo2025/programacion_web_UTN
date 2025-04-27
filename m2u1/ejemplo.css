@@ -1,0 +1,40 @@
+/*
+font-family: "Roboto", sans-serif;
+font-family: "Gabarito", sans-serif;
+*/
+
+.caja{
+
+    /*background-color: yellow;*/
+    background: #1db4f0;
+background: linear-gradient(178deg,rgba(29, 180, 240, 1) 36%, rgba(24, 103, 214, 1) 84%);
+    width: 300px;
+    height: 400;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 30px;
+    border-radius: 30px 10px;
+    box-shadow: 10px 10px 6px rgb(168, 167, 167)
+    /* eje X eje Y blur color */
+    /* ver ejemplos en cssgenerator.org */ 
+}
+
+.texto{
+    background-color: yellowgreen;
+    columns: 3; padding: 10px;
+    column-gap: 30px;
+    }
+
+h2{
+    color: #1db4f0;
+    font-family: "Gabarito", sans-serif;
+}
+
+p{
+    font-family: "Roboto", sans-serif;
+}
+
+.color{
+    font-size: 50px;
+    color: #1db4f0;
+}
